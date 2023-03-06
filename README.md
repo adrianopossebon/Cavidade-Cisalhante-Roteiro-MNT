@@ -13,7 +13,7 @@ O código está distribuído em 5 arquivos:
 
 1. **cavity_main.py**
 
-	Arquivo com a parte principal do código, incluindo a entrada dos parâmetros e o _loop_ principal.
+	Arquivo com a parte principal do código, incluindo a entrada dos parâmetros e o _loop_ principal no tempo.
 	
 1. **cavity_velocity.py**
 	
